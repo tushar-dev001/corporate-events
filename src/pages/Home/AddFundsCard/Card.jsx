@@ -1,6 +1,6 @@
 const Card = () => {
   return (
-    <div className="stats shadow w-full text-center my-20 bg-orange-500 py-10 text-white">
+    <div className="stats shadow md:w-full text-center my-20 bg-orange-500 py-10 text-white">
       <div className="stat">
         <div className="stat-figure text-primary">
           <svg

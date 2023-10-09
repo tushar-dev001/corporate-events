@@ -9,7 +9,7 @@ import TeamBuildingActivitis from "../TeamBuildingActivities/TeamBuildingActivit
 
 const Home = () => {
   return (
-    <div>
+    <div className="md:mx-0 mx-10">
       <Navbar></Navbar>
       <Banner></Banner>
       <CreateReality></CreateReality>

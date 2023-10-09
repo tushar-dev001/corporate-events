@@ -1,7 +1,7 @@
 const AddFundsCard = () => {
   return (
-    <div>
-      <div className="stats bg-primary text-primary-content w-full text-center py-10">
+    <div className="">
+      <div className="stats bg-primary text-primary-content  text-center py-10 md:w-full">
         <div className="stat">
           <div className="stat-title">Account balance</div>
           <div className="stat-value">$89,400</div>

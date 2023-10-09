@@ -2,8 +2,8 @@ import SectionTitle from "../../../components/Shared/SectionTitle/SectionTitle";
 import about1 from "../../../assets/about/about1.jpg";
 const CreateReality = () => {
   return (
-    <div className="flex">
-      <div className="w-1/2">
+    <div className=" grid grid-cols-1 md:grid-cols-2 justify-center">
+      <div className="w-1/2 ">
         <SectionTitle
           subHeading="JOIN THE EVENT"
           heading="We Create and Turn Into Reality"
