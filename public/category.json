@@ -1,0 +1,453 @@
+{
+  "events": {
+    "conferences": [
+      {
+        "id": 1,
+        "name": "Tech Summit 2023",
+        "img": "https://i.ibb.co/PNkZppY/con1.jpg",
+        "price": "$500",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 2,
+        "name": "Business Leadership Conference",
+        "img": "https://i.ibb.co/bdzYfYg/con2.jpg",
+        "price": "$450",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 3,
+        "name": "Innovation Forum",
+        "img": "https://i.ibb.co/qmTWHX9/con3.png",
+        "price": "$550",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 4,
+        "name": "Global Tech Exchange",
+        "img": "https://i.ibb.co/g6BH8h1/con4.jpg",
+        "price": "$480",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 5,
+        "name": "Digital Marketing Summit",
+        "img": "https://i.ibb.co/XXrkMbv/con5.jpg",
+        "price": "$520",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 6,
+        "name": "Leadership and Management Conference",
+        "img": "https://i.ibb.co/MN89B7s/con6.jpg",
+        "price": "$470",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      }
+    ],
+
+    "product_launches": [
+      {
+        "id": 1,
+        "name": "Product X Launch",
+        "img": "https://i.ibb.co/D5Pg1gV/latest1.jpg",
+        "price": "$700",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 2,
+        "name": "Gadget Expo 2023",
+        "img": "https://i.ibb.co/6nsKfZX/latest2.jpg",
+        "price": "$600",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 3,
+        "name": "Smart Home Devices Showcase",
+        "img": "https://i.ibb.co/h92GC1Q/latest3.jpg",
+        "price": "$650",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 4,
+        "name": "Fashion Tech Launch",
+        "img": "https://i.ibb.co/T2ZV7S7/latest4.jpg",
+        "price": "$720",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 5,
+        "name": "Health and Wellness Product Launch",
+        "img": "https://i.ibb.co/pPXW5jn/latest5.jpg",
+        "price": "$680",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 6,
+        "name": "Green Technology Unveiling",
+        "img": "https://i.ibb.co/9bngKp9/latest6.jpg",
+        "price": "$750",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      }
+    ],
+
+    "trade_shows": [
+      {
+        "id": 1,
+        "name": "International Trade Fair",
+        "img": "https://example.com/tradeshow1.jpg",
+        "price": "$800",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 2,
+        "name": "Automotive Expo 2023",
+        "img": "https://example.com/tradeshow2.jpg",
+        "price": "$850",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 3,
+        "name": "Food and Beverage Expo",
+        "img": "https://example.com/tradeshow3.jpg",
+        "price": "$750",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 4,
+        "name": "Tech Innovators Showcase",
+        "img": "https://example.com/tradeshow4.jpg",
+        "price": "$820",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 5,
+        "name": "Health and Fitness Expo",
+        "img": "https://example.com/tradeshow5.jpg",
+        "price": "$780",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 6,
+        "name": "Green Energy Expo",
+        "img": "https://example.com/tradeshow6.jpg",
+        "price": "$830",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      }
+    ],
+
+    "appreciation_ceremonies": [
+      {
+        "id": 1,
+        "name": "Employee Recognition Gala",
+        "img": "https://example.com/recognitiongala1.jpg",
+        "price": "$350",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 2,
+        "name": "Customer Appreciation Event",
+        "img": "https://example.com/customerappreciation1.jpg",
+        "price": "$300",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 3,
+        "name": "Supplier Excellence Awards",
+        "img": "https://example.com/supplierawards1.jpg",
+        "price": "$380",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 4,
+        "name": "Community Impact Ceremony",
+        "img": "https://example.com/communityimpact1.jpg",
+        "price": "$320",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 5,
+        "name": "Partnership Appreciation Dinner",
+        "img": "https://example.com/partnerappreciation1.jpg",
+        "price": "$360",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 6,
+        "name": "Volunteer Recognition Night",
+        "img": "https://example.com/volunteerrecognition1.jpg",
+        "price": "$310",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      }
+    ],
+
+    "team_building_activities": [
+      {
+        "id": 1,
+        "name": "Outdoor Adventure Retreat",
+        "img": "https://example.com/adventureretreat1.jpg",
+        "price": "$400",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 2,
+        "name": "Creative Workshop Day",
+        "img": "https://example.com/creativeworkshop1.jpg",
+        "price": "$350",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 3,
+        "name": "Escape Room Challenge",
+        "img": "https://example.com/escaperoom1.jpg",
+        "price": "$380",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 4,
+        "name": "Team Cooking Experience",
+        "img": "https://example.com/teamcooking1.jpg",
+        "price": "$360",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 5,
+        "name": "Artistic Team Retreat",
+        "img": "https://example.com/artisticretreat1.jpg",
+        "price": "$410",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 6,
+        "name": "Team Sports Tournament",
+        "img": "https://example.com/sportstournament1.jpg",
+        "price": "$430",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      }
+    ],
+
+    "board_meetings": [
+      {
+        "id": 1,
+        "name": "Quarterly Board Review",
+        "img": "https://example.com/boardmeeting1.jpg",
+        "price": "$200",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 2,
+        "name": "Financial Planning Session",
+        "img": "https://example.com/financialplanning1.jpg",
+        "price": "$250",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 3,
+        "name": "Mergers and Acquisitions Summit",
+        "img": "https://example.com/mergerssummit1.jpg",
+        "price": "$280",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 4,
+        "name": "Strategic Partnerships Meeting",
+        "img": "https://example.com/partnershipmeeting1.jpg",
+        "price": "$230",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 5,
+        "name": "Technology Integration Workshop",
+        "img": "https://example.com/technologyworkshop1.jpg",
+        "price": "$270",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 6,
+        "name": "Board Governance Seminar",
+        "img": "https://example.com/governanceseminar1.jpg",
+        "price": "$220",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      }
+    ],
+
+    "shareholder_meetings": [
+      {
+        "id": 1,
+        "name": "Annual Shareholder Conference",
+        "img": "https://example.com/shareholderconference1.jpg",
+        "price": "$300",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 2,
+        "name": "Investor Relations Forum",
+        "img": "https://example.com/investorforum1.jpg",
+        "price": "$350",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 3,
+        "name": "Shareholder Appreciation Gala",
+        "img": "https://example.com/shareholdergala1.jpg",
+        "price": "$320",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 4,
+        "name": "ESG Investor Forum",
+        "img": "https://example.com/esginvestorforum1.jpg",
+        "price": "$370",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 5,
+        "name": "Startup Investment Summit",
+        "img": "https://example.com/startupinvestment1.jpg",
+        "price": "$330",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 6,
+        "name": "Blockchain Technology Symposium",
+        "img": "https://example.com/blockchainsymposium1.jpg",
+        "price": "$380",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      }
+    ],
+
+    "company_milestones": [
+      {
+        "id": 1,
+        "name": "20th Anniversary Celebration",
+        "img": "https://example.com/anniversary1.jpg",
+        "price": "$500",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 2,
+        "name": "1 Million Customers Milestone",
+        "img": "https://example.com/millioncustomers1.jpg",
+        "price": "$450",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 3,
+        "name": "Product Innovation Showcase",
+        "img": "https://example.com/innovationshowcase1.jpg",
+        "price": "$480",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 4,
+        "name": "Global Expansion Announcement",
+        "img": "https://example.com/globalannouncement1.jpg",
+        "price": "$520",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 5,
+        "name": "Sustainability Milestone Event",
+        "img": "https://example.com/sustainabilityevent1.jpg",
+        "price": "$550",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 6,
+        "name": "Customer Loyalty Celebration",
+        "img": "https://example.com/customerloyalty1.jpg",
+        "price": "$470",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      }
+    ],
+
+    "congresses": [
+      {
+        "id": 1,
+        "name": "Medical Congress 2023",
+        "img": "https://example.com/medicalcongress1.jpg",
+        "price": "$600",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 2,
+        "name": "Science and Research Congress",
+        "img": "https://example.com/sciencecongress1.jpg",
+        "price": "$550",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 3,
+        "name": "Environmental Sustainability Symposium",
+        "img": "https://example.com/environmentalsymposium1.jpg",
+        "price": "$580",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 4,
+        "name": "Space Exploration Conference",
+        "img": "https://example.com/spaceexploration1.jpg",
+        "price": "$620",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 5,
+        "name": "AI and Robotics Summit",
+        "img": "https://example.com/aisummit1.jpg",
+        "price": "$650",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 6,
+        "name": "Educational Technology Expo",
+        "img": "https://example.com/edtechexpo1.jpg",
+        "price": "$580",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      }
+    ],
+
+    "award_ceremonies": [
+      {
+        "id": 1,
+        "name": "Industry Excellence Awards",
+        "img": "https://example.com/excellenceawards1.jpg",
+        "price": "$400",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 2,
+        "name": "Innovation Awards Gala",
+        "img": "https://example.com/innovationawards1.jpg",
+        "price": "$350",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 3,
+        "name": "Environmental Stewardship Awards",
+        "img": "https://example.com/environmentalawards1.jpg",
+        "price": "$380",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 4,
+        "name": "Social Impact Awards",
+        "img": "https://example.com/socialimpactawards1.jpg",
+        "price": "$330",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 5,
+        "name": "Technology Innovation Awards",
+        "img": "https://example.com/techinnovationawards1.jpg",
+        "price": "$370",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      },
+      {
+        "id": 6,
+        "name": "Humanitarian Excellence Awards",
+        "img": "https://example.com/humanitarianawards1.jpg",
+        "price": "$320",
+        "short_description": "The primary purpose of a conference is to connect with target audiences and give them relevant information, usually to educate or motivate them. They're also useful occasions for promoting networking and collaboration between attendees. Conferences typically last at least a full day, occur at conference centers or hotels and feature a keynote speaker, as well as many other speaking sessions on different topics."
+      }
+    ]
+  }
+}
